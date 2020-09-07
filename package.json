@@ -1,8 +1,11 @@
 {
-  "name": "preset-hydrogen",
+  "name": "@hirokihello/preset-hydrogen",
   "version": "1.0.0",
   "description": "preset for @hirokihello/hydrogen",
   "main": "index.js",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
