@@ -1,8 +1,8 @@
 {
-  "name": "@hirokihello/preset-hydrogen",
-  "version": "1.0.0",
+  "name": "@hirokihello/babel-preset-hydrogen",
+  "version": "1.0.1",
   "description": "preset for @hirokihello/hydrogen",
-  "main": "index.js",
+  "main": "src/index.js",
   "files": [
     "src"
   ],
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hirokihello/preset-hydrogen.git"
+    "url": "git+ssh://git@github.com/hirokihello/babel-preset-hydrogen.git"
   },
   "keywords": [],
   "author": "hirokihello",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hirokihello/preset-hydrogen/issues"
+    "url": "https://github.com/hirokihello/babel-preset-hydrogen/issues"
   },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "homepage": "https://github.com/hirokihello/preset-hydrogen#readme"
+  "homepage": "https://github.com/hirokihello/babel-preset-hydrogen#readme"
 }

@@ -5,7 +5,7 @@ it is preset for babel.
 #### usase
 
 ```
-npm i babel-loader @hirokihello/preset-hydrogen -D
+npm i babel-loader @hirokihello/babel-preset-hydrogen -D
 ```
 
 add your webpack.config
@@ -14,7 +14,7 @@ add your webpack.config
         use: [
           { loader: "babel-loader",
             options: {
-              "presets": ["@hirokihello/preset-hydrogen"]
+              "presets": ["@hirokihello/babel-preset-hydrogen"]
             }
           },
         ],
