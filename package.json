@@ -11,10 +11,11 @@
     "url": "git+ssh://git@github.com/hirokihello/preset-hydrogen.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "hirokihello",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hirokihello/preset-hydrogen/issues"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "homepage": "https://github.com/hirokihello/preset-hydrogen#readme"
 }
